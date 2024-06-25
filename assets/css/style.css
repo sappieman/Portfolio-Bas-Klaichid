@@ -946,7 +946,8 @@ a:hover {
 }
 
 .work-img img {
-  transition: all 10s;
+  transition: all 1s;
+
 }
 
 .work-content {
